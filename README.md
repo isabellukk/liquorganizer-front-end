@@ -41,7 +41,7 @@ Clone the back end repo
 ``` 
 $ git clone git@github.com:jthurber87/liquorganizer-back-end.git 
 $ npm install
-$ npm start
+$ nodemon
 ```
 
 ## Future Considerations
